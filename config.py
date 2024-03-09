@@ -30,14 +30,14 @@ def is_enabled(value, default):
 # Ask Doubt on telegram @KingVJ01
       
 # Owner Information
-API_ID = int(environ.get("API_ID", ""))
-API_HASH = environ.get("API_HASH", "")
-ADMINS = int(environ.get("ADMINS", ""))
+API_ID = int(environ.get("API_ID", "9976721"))
+API_HASH = environ.get("API_HASH", "3ef17a8cdb938335bd8ba292e6d816aa")
+ADMINS = int(environ.get("ADMINS", "1956698956"))
 
 # Database Information
-CLONE_DB_URI = environ.get("CLONE_DB_URI", "")
+CLONE_DB_URI = environ.get("CLONE_DB_URI", ""mongodb+srv://Filesstreambot:eHtqPEVohrO3YAS3@cluster0.hdxt929.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0)
 CDB_NAME = environ.get("CDB_NAME", "clonevjbotz")
-DB_URI = environ.get("DB_URI", "")
+DB_URI = environ.get("DB_URI", "mongodb+srv://filestream:D3MJlfQd3BHhUzhX@filestream.symvafq.mongodb.net/?retryWrites=true&w=majority&appName=filestream")
 DB_NAME = environ.get("DB_NAME", "vjbotz")
 
 # Don't Remove Credit Tg - @VJ_Botz
