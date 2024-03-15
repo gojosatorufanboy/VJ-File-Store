@@ -46,7 +46,7 @@ DB_NAME = environ.get("DB_NAME", "vjbotz")
 
 # Bot Information
 BOT_TOKEN = environ.get("BOT_TOKEN", "7197628113:AAFN7rLNNhymJ3tDdO5I3arwspNQcUIPQGQ")
-BOT_USERNAME = environ.get("BOT_USERNAME", "Filestorebot97bot) # your bot username without @
+BOT_USERNAME = environ.get("BOT_USERNAME", "Filestorebot97bot") # your bot username without @
 PICS = (environ.get('PICS', 'https://graph.org/file/82ef767ffebe3a948e476.jpg https://graph.org/file/82ef767ffebe3a948e476.jpg')).split() # Bot Start Picture
 
 # Auto Delete Information
