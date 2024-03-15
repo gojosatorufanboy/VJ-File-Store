@@ -4,8 +4,16 @@
 
 
 class script(object):
-    START_TXT = """<b>Hey ! I'm File Share Bot 💖
-Send Me The Media/Text To Change Into Link 🔗
+    START_TXT = """<b>ʜᴇʟʟᴏ {} ᴍʏ ɴᴀᴍᴇ {}
+
+ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇ ᴀɴᴅ ᴘᴏᴡᴇʀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ
+
++ ᴄʟᴏɴᴇ ꜰᴇᴀᴛᴜʀᴇ
++ ꜱᴛʀᴇᴀᴍ/ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ꜰᴇᴀᴛᴜʀᴇ
++ ᴄᴜꜱᴛᴏᴍ ᴜʀʟ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ
++ ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ ꜱᴜᴘᴘᴏʀᴛ
+
+ᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ
 </b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
